@@ -1,15 +1,16 @@
-id: opecha:P000385
+id: P000385
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W17836
   title: གསུང་སྒྲོས་ཕན་བྱེད་རིག་པའི་མཛོད།
-  volume:
+  author: ''
+  volumes:
     5dec6cdc403c49c999eb4fc1a9a26be2:
       image_group_id: I1GS57578
       title: Volume 1 of gsung sgros phan byed rig pa'i mdzod
       volume_number: 1
       total_pages: 135
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གསུང་སྒྲོས་ཕན་བྱེད་རིག་པའི་མཛོད།
   author: ''
